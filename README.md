@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shravan! 👋</h1>
 
 <p align="center">
-  <a href="your LinkedIn profile URL"><img src="linkedin-icon.png" alt="LinkedIn" height="30"></a>
+  <a href="your LinkedIn profile URL"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FkMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw&tbnid=f084GhCClOHCNM&vet=12ahUKEwiTouyYoNz_AhV_zaACHf4JAakQMygAegUIARDeAQ..i&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.linkedin.android%26hl%3Den_US&docid=2b8G0Orj3IjoBM&w=512&h=512&q=linkedin%20image&ved=2ahUKEwiTouyYoNz_AhV_zaACHf4JAakQMygAegUIARDeAQ" alt="LinkedIn" height="30"></a>
   <a href="https://twitter.com/Shravan_kumar_L"><img src="twitter-icon.png" alt="Twitter" height="30"></a>
 </p>
 
