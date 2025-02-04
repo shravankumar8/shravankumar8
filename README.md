@@ -1,9 +1,9 @@
 
-# 👋 Hey there! I'm [Your Name]  
+# 👋 Hey there! I'm Shravan kumar   
 
 🚀 **Full-Stack Developer | DevOps Enthusiast | Open Source Contributor**  
 
-I'm passionate about building scalable applications, optimizing performance, and exploring emerging technologies. From **Node.js & Golang** backend development to **React & Next.js** frontend work, I love working across the stack.  
+I'm passionate about building scalable applications, optimizing performance, and exploring emerging technologies. From **Node.js & Golang** backend development to **React & Next.js** frontend work, I love workitmeng across the stack.  
 
 ## 🔥 What I Do  
 - **Full-Stack Development** → React, Next.js, TypeScript, Node.js, Hono  
@@ -22,18 +22,18 @@ I'm passionate about building scalable applications, optimizing performance, and
 
 ## ✍️ Blogs & Writing  
 I love sharing knowledge! Check out some of my blogs:  
-- **[Optimizing Response Times with Data Caching Strategies](#)**  
-- **[Introduction to JavaScript Foundations](#)**  
+- **[Asynchronous Backend Communication Using Messaging Queues](https://medium.com/@shravankumar8/asynchronous-backend-communication-using-messaging-queues-4f75033a83f3)**  
+- **[Optimizing Response Times with Data Caching Strategies](https://medium.com/@shravankumar8/optimizing-response-times-with-data-caching-strategies-13c62ebf30ac)**  
 
 ## ⚡ Fun Facts  
-- 🎤 I applied as a **speaker at a data summit conference**!  
+- 🎤 Voluntered at multiple events and participated in hackathons**!  
 - 📚 I enjoy **fantasy books** (Sanderson, Rothfuss, GRRM).  
 - 🛠️ Always exploring **new tech**—whether it's **Web3, NLP, or AI-driven applications**.  
 
 ## 📬 Connect with Me  
-- 🔗 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
-- 🌐 [Portfolio](#)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shravankumar8)  
+- 🐦 [Twitter](https://x.com/Shravankumar8_)  
+- 🌐 [Portfolio](shravankumar8.tech)  
 
 ---
 
